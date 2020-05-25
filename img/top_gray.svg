@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="968" height="762" viewBox="0 0 968 762">
+    <defs>
+        <linearGradient id="a" x1="3.115%" x2="-334.4%" y1="2.235%" y2="122.025%">
+            <stop offset="0%" stop-color="#8468F5"/>
+            <stop offset="100%" stop-color="#EC74E7"/>
+        </linearGradient>
+        <linearGradient id="b" x1="488.386%" x2="-334.4%" y1="-35.518%" y2="122.025%">
+            <stop offset="0%" stop-color="#8468F5"/>
+            <stop offset="100%" stop-color="#EC74E7"/>
+        </linearGradient>
+        <linearGradient id="c" x1="100%" x2="-334.4%" y1="-75.682%" y2="122.025%">
+            <stop offset="0%" stop-color="#8468F5"/>
+            <stop offset="100%" stop-color="#EC74E7"/>
+        </linearGradient>
+        <linearGradient id="d" x1="420.61%" x2="-608.375%" y1="-4.545%" y2="140.499%">
+            <stop offset="0%" stop-color="#8468F5"/>
+            <stop offset="94.645%" stop-color="#E673E8"/>
+            <stop offset="100%" stop-color="#EC74E7"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".15" transform="translate(-1 -212)">
+        <rect width="8" height="241" x="279.393" y="150.502" fill="url(#a)" rx="4" transform="scale(-1 1) rotate(35 0 -627.804)"/>
+        <rect width="6" height="181" x="635.366" y="137.354" fill="url(#b)" rx="3" transform="scale(-1 1) rotate(35 0 -1796.785)"/>
+        <rect width="9" height="70" x="906.261" y="309.251" fill="url(#c)" rx="4.5" transform="scale(-1 1) rotate(35 0 -2544.315)"/>
+        <rect width="30" height="400" x="340.003" y="123.434" fill="url(#a)" rx="15" transform="scale(-1 1) rotate(35 0 -802.49)"/>
+        <rect width="23" height="300" x="363.957" y="20.469" fill="url(#d)" rx="11.5" transform="scale(-1 1) rotate(35 0 -1020.328)"/>
+        <rect width="19" height="400" x="839.997" y="-30" fill="url(#a)" rx="9.5" transform="scale(-1 1) rotate(35 0 -2524.261)"/>
+        <rect width="4.847" height="241" x="612.365" y="699.411" fill="url(#a)" opacity=".313" rx="2.424" transform="scale(-1 1) rotate(36 0 -1072.214)"/>
+        <rect width="4.847" height="100" x="517.926" y="682.875" fill="url(#a)" rx="2.424" transform="scale(-1 1) rotate(36 0 -868.597)"/>
+        <rect width="6.85" height="75" x="21.388" y="315.565" fill="url(#a)" opacity=".169" rx="3.425" transform="scale(-1 1) rotate(36 0 276.699)"/>
+        <rect width="8" height="241" x="746.064" y="754.338" fill="url(#a)" opacity=".313" rx="4" transform="scale(-1 1) rotate(36 0 -1433.623)"/>
+        <rect width="4.847" height="241" x="314.683" y="557.411" fill="url(#a)" rx="2.424" transform="scale(-1 1) rotate(36 0 -298.043)"/>
+        <rect width="12" height="241" x="276" y="559.513" fill="url(#a)" opacity=".144" rx="6" transform="scale(-1 1) rotate(36 0 -187.893)"/>
+    </g>
+</svg>
